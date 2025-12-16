@@ -1,8 +1,8 @@
 # EHRMS Portal – Iddham Ent. Pvt. Ltd.
 
-**Role:** Developer / Intern  
-**Duration:** [Add your internship dates]  
-**Technologies Used:** HTML, CSS, JavaScript, Python/Java (backend), MySQL, VS Code, Git  
+**Role:** Software Developer Intern  
+**Duration:** July 2025 to December 2025  
+**Technologies Used:** HTML, CSS, JavaScript, node.js + express.js (backend), MongoDB, VS Code, Git  
 
 ## Project Overview
 The **Employee Human Resource Management System (EHRMS) Portal** is a web-based application designed to streamline HR operations for Iddham Ent. Pvt. Ltd. The portal automates routine HR tasks, improves data management, and enhances the overall employee experience.
@@ -16,10 +16,11 @@ The **Employee Human Resource Management System (EHRMS) Portal** is a web-based 
 
 ## Project Highlights
 - Developed a fully functional **front-end interface** using HTML, CSS, and JavaScript.  
-- Integrated **backend logic** with Python/Java and a **MySQL database** for secure data storage and retrieval.  
+- Integrated **backend logic** with Python/Java and a **MongoDB database** for secure data storage and retrieval.  
 - Automated HR processes to reduce manual effort and increase operational efficiency.  
 
 ## Usage / Demo
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/USERNAME/EHRMS-Portal.git
+   git clone https://github.com/Vardaan5402/E-HRMS-PORTAL-FOR-EMPLOYEES.git
+
